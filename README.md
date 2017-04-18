@@ -1,6 +1,6 @@
 ## spark-demo
 
-### scalapractice_2.11-1.0.jar
+1. scalapractice_2.11-1.0.jar
 	
 	> This is the first demo. To calculate PI
 	> Main class: com.nlabs.test.ScalaPI
