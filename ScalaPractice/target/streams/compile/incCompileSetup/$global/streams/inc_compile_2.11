@@ -1,0 +1,378 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+23 items
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\ScalaPI$$anonfun$1.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\ScalaPI$$anonfun$2.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\ScalaPI$.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\ScalaPI.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\Test$.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\Test.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$1.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$10.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$11.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$12.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$13.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$14.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$2.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$3.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$4.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$5.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$6.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$7.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$8.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$9.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$add$1.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$.class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather.class
+binary dependencies:
+8 items
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> C:\Users\kejingzuo\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> C:\Users\kejingzuo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> E:\ProgramFiles\Java\jdk1.8.0_66\jre\lib\rt.jar
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> C:\Users\kejingzuo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> E:\ProgramFiles\Java\jdk1.8.0_66\jre\lib\rt.jar
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> C:\Users\kejingzuo\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> C:\Users\kejingzuo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> E:\ProgramFiles\Java\jdk1.8.0_66\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+23 items
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> com.nlabs.test.ScalaPI
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> com.nlabs.test.ScalaPI$
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> com.nlabs.test.ScalaPI$$anonfun$1
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> com.nlabs.test.ScalaPI$$anonfun$2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> com.nlabs.test.Test
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> com.nlabs.test.Test$
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$1
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$10
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$11
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$12
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$13
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$14
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$3
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$4
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$5
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$6
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$7
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$8
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$9
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com.nlabs.test.weather$$anonfun$add$1
+used names:
+209 items
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> *
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> +
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> -
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> /
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> <=
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> <init>
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> <repeated>
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> >
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Any
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> AnyRef
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Array
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Boolean
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> ClassTag
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Double
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Function1
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Function2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Int
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Long
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Nothing
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Object
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Predef
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> RDD
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Range
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> RichInt
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> ScalaPI
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Seq
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> SparkConf
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> SparkContext
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> String
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> StringOps
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> T
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> U
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> Unit
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> apache
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> apply
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> args
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> augmentString
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> com
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> conf
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> count
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> format
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> intWrapper
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> length
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> map
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> materializeClassTag
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> math
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> min
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> n
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> nlabs
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> org
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> package
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> parallelize
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> println
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> random
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> reduce
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> scala
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> setAppName
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> slices
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> spark
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> sparkContext
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> stop
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> test
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> toInt
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> until
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> x
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> y
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> <init>
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Any
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> AnyRef
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Array
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Boolean
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Date
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Int
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Long
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Object
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Predef
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> SimpleDateFormat
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> String
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Test
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Thread
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> Unit
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> com
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> dateFormat
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> format
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> hehe
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> java
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> lang
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> matches
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> nlabs
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> now
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> println
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> reg2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> scala
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> seconds
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> sleep
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> test
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> text
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> toLong
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> util
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> &&
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> +
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> -
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> /
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> <init>
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> >
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Any
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> AnyRef
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Array
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Boolean
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> BufferedSource
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> CharSequence
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Class
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> ClassTag
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Codec
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Date
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Exception
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Float
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Function1
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Function2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Int
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Long
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Nothing
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Object
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Predef
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> RDD
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> RichException
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Seq
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> SimpleDateFormat
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Source
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> SparkConf
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> SparkContext
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> String
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> StringOps
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> T
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> T1
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> T2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Thread
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Throwable
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Tuple2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> U
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> Unit
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> WrappedArray
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> _$7
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> _1
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> _2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> add
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> apache
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> apply
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> ar
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> augmentString
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> b
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> com
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> conf
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> contains
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> dateFormat
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> ex
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> f
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> fallbackSystemCodec
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> filter
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> format
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> fromURL
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> get
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> getMessage
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> getStackTraceString
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> io
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> java
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> l
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> lang
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> map
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> matches
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> materializeClassTag
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> mkString
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> nlabs
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> org
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> package
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> parallelize
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> println
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> reduce
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> reg2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> replace
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> replaceAll
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> res1
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> res2
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> res3
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> res4
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> res5
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> result
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> sc
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> scala
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> seconds
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> setAppName
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> sleep
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> spark
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> split
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> substring
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> tb
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> test
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> text
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> times
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> toFloat
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> toLong
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> unary_!
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> url
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> util
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> weather
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> while$1
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> wrapRefArray
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> x
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> y
+product stamps:
+23 items
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\ScalaPI$$anonfun$1.class -> lastModified(1493198656090)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\ScalaPI$$anonfun$2.class -> lastModified(1493198656108)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\ScalaPI$.class -> lastModified(1493198656071)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\ScalaPI.class -> lastModified(1493198655868)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\Test$.class -> lastModified(1493198656124)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\Test.class -> lastModified(1493198656114)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$1.class -> lastModified(1493198656199)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$10.class -> lastModified(1493198656208)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$11.class -> lastModified(1493198656214)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$12.class -> lastModified(1493198656223)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$13.class -> lastModified(1493198656232)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$14.class -> lastModified(1493198656251)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$2.class -> lastModified(1493198656258)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$3.class -> lastModified(1493198656264)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$4.class -> lastModified(1493198656272)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$5.class -> lastModified(1493198656280)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$6.class -> lastModified(1493198656287)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$7.class -> lastModified(1493198656293)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$8.class -> lastModified(1493198656300)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$9.class -> lastModified(1493198656309)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$$anonfun$add$1.class -> lastModified(1493198656323)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather$.class -> lastModified(1493198656189)
+D:\MyDocument\scala_workspace\ScalaPractice\target\scala-2.11\classes\com\nlabs\test\weather.class -> lastModified(1493198656142)
+source stamps:
+3 items
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> hash(95005ccf464fda2696ba13df8fb6bcd23c476793)
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> hash(245f1d7fcc59e104e97050ff47be4fb86bcf852a)
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> hash(936a73f487acca637a81017da2e3e72292019d82)
+binary stamps:
+3 items
+C:\Users\kejingzuo\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\kejingzuo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+E:\ProgramFiles\Java\jdk1.8.0_66\jre\lib\rt.jar -> lastModified(1480055562047)
+class names:
+3 items
+C:\Users\kejingzuo\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkConf$
+C:\Users\kejingzuo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Long
+E:\ProgramFiles\Java\jdk1.8.0_66\jre\lib\rt.jar -> java.lang.Object
+internal apis:
+3 items
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwA6vR9wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKlG7ZXQABm5vdGlmeXNxAH4ADGY18uZ0AAR3YWl0c3EAfgAMNYhzNHQADSRhc0luc3RhbmNlT2ZzcQB+AAzQ4qmPdAAGZXF1YWxzc3EAfgAMZ4H8InQADGFzSW5zdGFuY2VPZnNxAH4ADGDHFt10AAxzeW5jaHJvbml6ZWRzcQB+AAxSo8Z1dAANJGlzSW5zdGFuY2VPZnNxAH4ADIW5NNd0AARtYWluc3EAfgAMZgsslHQACW5vdGlmeUFsbHNxAH4ADDqllL90AAxpc0luc3RhbmNlT2ZzcQB+AAye1tkMdAAHU2NhbGFQSXNxAH4ADJCv3OB0AAI9PXNxAH4ADBN6V4J0AAVjbG9uZXNxAH4ADPsRDF10AAh0b1N0cmluZ3NxAH4ADCSPnnl0AAIhPXNxAH4ADI+8FGt0AAhnZXRDbGFzc3NxAH4ADNsvbLl0AAJuZXNxAH4ADMprMnV0AAJlcXNxAH4ADLTAdtd0AAIjI3NxAH4ADHgKs/h0AAhmaW5hbGl6ZXNxAH4ADDvr/0l0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABZjb20ubmxhYnMudGVzdC5TY2FsYVBJdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWNvbS5ubGFic3NxAH4ApnQADmNvbS5ubGFicy50ZXN0c3EAfgCmdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbqZLvWnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEVEOlxNeURvY3VtZW50XHNjYWxhX3dvcmtzcGFjZVxTY2FsYVByYWN0aWNlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSVAFzPRk/aJpa6E9+PtrzSPEdnkw==
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqxYBfwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9FzFanQABm5vdGlmeXNxAH4ADHQa7qR0AAR3YWl0c3EAfgAMGH449nQADSRhc0luc3RhbmNlT2ZzcQB+AAwL7MgIdAAGZXF1YWxzc3EAfgAMFyjEzXQADGFzSW5zdGFuY2VPZnNxAH4ADOuzd110AAxzeW5jaHJvbml6ZWRzcQB+AAy1PtSddAAFc2xlZXBzcQB+AAyrACeldAANJGlzSW5zdGFuY2VPZnNxAH4ADCI1zRB0AARtYWluc3EAfgAMG2ocwnQACW5vdGlmeUFsbHNxAH4ADJXnVL50AAxpc0luc3RhbmNlT2ZzcQB+AAzZWiIBdAACPT1zcQB+AAwXireWdAAFY2xvbmVzcQB+AAyM9p4hdAAEVGVzdHNxAH4ADNN/Azp0AAh0b1N0cmluZ3NxAH4ADFflmXB0AAIhPXNxAH4ADMhKVzh0AAhnZXRDbGFzc3NxAH4ADCpwKbh0AAJuZXNxAH4ADIPtZYV0AAJlcXNxAH4ADDb6+L10AAIjI3NxAH4ADKat7aN0AAhmaW5hbGl6ZXNxAH4ADNgYANt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNjb20ubmxhYnMudGVzdC5UZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AH3VxAH4AUwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFZ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF9zcQB+AG50AAVBcnJheXEAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG50AAZTdHJpbmdzcQB+AHJzcQB+AHV1cQB+AHgAAAADc3EAfgB6dAAEamF2YXNxAH4AenQABGxhbmdxAH4Af3NxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AJMAAAACc3EAfgBudAAGT2JqZWN0cQB+AJdzcQB+AG50AANBbnlxAH4AdHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWNvbS5ubGFic3NxAH4AqHQADmNvbS5ubGFicy50ZXN0c3EAfgCodAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbqZLvWnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEVEOlxNeURvY3VtZW50XHNjYWxhX3dvcmtzcGFjZVxTY2FsYVByYWN0aWNlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQkXx1/zFnhBOlwUP9Hvk+4a8+FKg==
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwcnTiFgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2ky3HHQABm5vdGlmeXNxAH4ADOy3BK90AAR3YWl0c3EAfgAMA2VvBXQADSRhc0luc3RhbmNlT2ZzcQB+AAye8fPLdAAGZXF1YWxzc3EAfgAMkdN/f3QADGFzSW5zdGFuY2VPZnNxAH4ADIgLS+F0AAxzeW5jaHJvbml6ZWRzcQB+AAygIMo4dAAFc2xlZXBzcQB+AAxeSbjodAANJGlzSW5zdGFuY2VPZnNxAH4ADDTLcHJ0AARtYWluc3EAfgAMyHPVd3QACW5vdGlmeUFsbHNxAH4ADPardf90AAxpc0luc3RhbmNlT2ZzcQB+AAx2EdC6dAACPT1zcQB+AAxPvlKLdAAFY2xvbmVzcQB+AAxSHjyPdAAKZGF0ZUZvcm1hdHNxAH4ADPnPl9x0AAh0b1N0cmluZ3NxAH4ADAppYD50AAIhPXNxAH4ADG66FEd0AANnZXRzcQB+AAw+iCGBdAAHd2VhdGhlcnNxAH4ADBknZ010AAhnZXRDbGFzc3NxAH4ADNjQiod0AAJuZXNxAH4ADA+cxkd0AANhZGRzcQB+AAzuz8AcdAACZXFzcQB+AAy/Q3VtdAACIyNzcQB+AAy01LSfdAAIZmluYWxpemVzcQB+AAxt0FrUdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWY29tLm5sYWJzLnRlc3Qud2VhdGhlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGZzcQB+AGF1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAABzcQB+AFYAcQB+AB91cQB+AFkAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBueHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBcdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3EAfgB0dAAFQXJyYXlxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB0dAAGU3RyaW5nc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABGphdmFzcQB+AIB0AARsYW5ncQB+AIVzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgCZAAAAAnNxAH4AdHQABk9iamVjdHEAfgCdc3EAfgB0dAADQW55cQB+AHp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAljb20ubmxhYnNzcQB+AK50AA5jb20ubmxhYnMudGVzdHNxAH4ArnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6mS71p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFRDpcTXlEb2N1bWVudFxzY2FsYV93b3Jrc3BhY2VcU2NhbGFQcmFjdGljZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUk2pz9IesymN6gQF9ouPnIpIBnYI=
+external apis:
+0 items
+source infos:
+3 items
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\ScalaPI.scala -> 
+AAAAAAAAAAA=
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\Test.scala -> 
+AAAAAAAAAAA=
+D:\MyDocument\scala_workspace\ScalaPractice\src\main\scala\com\nlabs\test\weather.scala -> 
+AAAAAAAAAAA=
+compilations:
+11 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3sfax11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW36ZAnB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW360C491cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6Pif+N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6QHwjN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6QySoV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6RHbo11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6RO0Yp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6RdEol1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6RutGt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6mS71p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUQ6XE15RG9jdW1lbnRcc2NhbGFfd29ya3NwYWNlXFNjYWxhUHJhY3RpY2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
