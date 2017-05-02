@@ -13,7 +13,6 @@
 
 2. sparkkafkatest2_2.11-1.0.jar
 
-          <br />
 	  Desc: This demo just run on standalone; Will calculate words using kafka and spark <br />
 	  Main class: com.nlabs.kafka.KafkaWordProducer;com.nlabs.kafka.KafkaWordCount <br />
 	  Note:  Before run below commands, pls confirm that zookeeper and kafka services are running<br />
