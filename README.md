@@ -10,7 +10,10 @@
 	 Main class : com.nlabs.test.weather <br />
 	 Execute command: `dcos spark run --submit-args='--driver-cores 0.5 --driver-memory 512M --class com.nlabs.test.weather https://github.com/lihengzkj/spark-demo/raw/master/scalapractice_2.11-1.0.jar 30'`<br />
 
+
 2. sparkkafkatest2_2.11-1.0.jar
+
+          <br />
 	  Desc: This demo just run on standalone; Will calculate words using kafka and spark <br />
 	  Main class: com.nlabs.kafka.KafkaWordProducer;com.nlabs.kafka.KafkaWordCount <br />
 	  Note:  Before run below commands, pls confirm that zookeeper and kafka services are running<br />
